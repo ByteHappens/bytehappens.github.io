@@ -209,4 +209,4 @@ var a,r,v,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,s;
 },{"angular":"aeQg"}],"8lnA":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("../styles/vendor.scss"),require("jquery"),require("popper.js"),require("bootstrap"),require("angular"),require("@uirouter/angularjs"),require("./bytehappens/web/interfaces/ibytehappensrootscopeservice"),require("./bytehappens/web/app"),require("./bytehappens/web/config/routes"),require("./bytehappens/web/config/statechange"),require("./bytehappens/web/controllers/bytehappenshomecontroller");
 },{"../styles/vendor.scss":"z9qN","jquery":"juYr","popper.js":"lo/u","bootstrap":"BQpi","angular":"aeQg","@uirouter/angularjs":"DMiO","./bytehappens/web/interfaces/ibytehappensrootscopeservice":"OWcp","./bytehappens/web/app":"Og0G","./bytehappens/web/config/routes":"Nxcb","./bytehappens/web/config/statechange":"48jl","./bytehappens/web/controllers/bytehappenshomecontroller":"CWmj"}]},{},["8lnA"], null)
-//# sourceMappingURL=/vendor.58b961b8.map
+//# sourceMappingURL=/vendor.b0dff83b.map
